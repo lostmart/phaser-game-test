@@ -1,4 +1,3 @@
-import "./style.css"
 import Phaser, { Physics } from "phaser"
 
 const windowSize = {
