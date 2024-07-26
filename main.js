@@ -131,7 +131,7 @@ const config = {
 		default: "arcade",
 		arcade: {
 			gravity: { y: speedDown },
-			debug: false,
+			debug: true,
 		},
 	},
 	scene: [GameScene],
