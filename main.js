@@ -1,4 +1,4 @@
-import Phaser, { Physics } from "phaser"
+//import Phaser, { Physics } from "phaser"
 
 const windowSize = {
 	width: 500,
